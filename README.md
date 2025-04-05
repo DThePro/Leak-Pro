@@ -1,36 +1,43 @@
-# Leak Pro
+# 💨 Leak Pro
 
-## Description
+## 🔍 Description
 
-A household gas leak detection and alert system that when detected, shuts-off the gas supply automatically, thus preventing any major accidents without even having the need of a human intervention. This idea was built on a hardware prototype using different modules, which has helped us demonstrating our model to our peers, gaining valuable feedback for future improvements. 
+**Leak Pro** is a smart household **gas leak detection and alert system** that automatically shuts off the gas supply upon detection — no human intervention needed. Built as a hardware prototype using various modules, this system helps prevent major accidents at the source. We’ve demonstrated this model to peers and gathered valuable feedback to improve future iterations.
 
-## Materials Used
+---
+
+## 🔧 Materials Used
 
 - Arduino Uno
-- GSM-SIM900A 
+- GSM-SIM900A module
 - M2 Gas Sensor
 - Servo Motor
 - Jumper Wires
 - Breadboard
 - Gas Lighter
 
+---
 
-## Prototype Demo
+## 🎥 Prototype Demo
 
-You can find the demo of our prototype [here](https://drive.google.com/file/d/1yOPUnjrwjl9CJJHES_sfZblb9MxpxMHn/view?usp=sharing)
+Check out the working prototype in action 👉 [Watch Demo](https://drive.google.com/file/d/1yOPUnjrwjl9CJJHES_sfZblb9MxpxMHn/view?usp=sharing)
 
+---
 
-## Final Report / Paper Written
-[Final Report.pdf](https://github.com/user-attachments/files/18593002/Final.Report.pdf)
+## 📝 Final Report
 
+You can view our detailed documentation and analysis here:  
+📄 [Final Report.pdf](https://github.com/user-attachments/files/18593002/Final.Report.pdf)
 
-## Our Team
+---
 
-Anmoldeep Singh\
-Khushi Kakkar\
-Deepro Chakravorty - [Github](https://github.com/DThePro/)\
-Srijit Sen (Myself)
+## 👥 Our Team
 
-## License
+- Anmoldeep Singh  
+- Khushi Kakkar
+- Srijit Sen – [GitHub](https://github.com/Srijit07/)
+- Deepro Chakravorty (Myself)
 
-[MIT](https://choosealicense.com/licenses/mit/)
+---
+
+Let me know if you want a "How it works" section or a wiring diagram section added too!
