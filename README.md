@@ -27,7 +27,7 @@ Check out the working prototype in action 👉 [Watch Demo](https://drive.google
 ## 📝 Final Report
 
 You can view our detailed documentation and analysis here:  
-📄 [Final Report.pdf](https://github.com/user-attachments/files/18593002/Final.Report.pdf)
+📄 [Final Report.pdf](https://github.com/DThePro/Leak-Pro/blob/main/Final%20Report.pdf)
 
 ---
 
