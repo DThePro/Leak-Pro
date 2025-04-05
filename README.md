@@ -2,7 +2,7 @@
 
 ## 🔍 Description
 
-**Leak Pro** is a smart household **gas leak detection and alert system** that automatically shuts off the gas supply upon detection — no human intervention needed. Built as a hardware prototype using various modules, this system helps prevent major accidents at the source. We’ve demonstrated this model to peers and gathered valuable feedback to improve future iterations.
+**Leak Pro** is a smart household **gas leak detection and alert system** that automatically shuts off the gas supply upon detection — no human intervention needed, and also notifies the residents through SMS. Built as a hardware prototype using various modules, this system helps prevent major accidents at the source. We’ve demonstrated this model to peers and gathered valuable feedback to improve future iterations.
 
 ---
 
